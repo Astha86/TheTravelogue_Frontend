@@ -37,8 +37,6 @@ The CodeBuddy ed-tech platform follows a client-server architecture with the fol
 
 ## What I learned
 
-While building this project, I embarked on my first full-stack journey, transitioning from frontend development to working with the backend. The journey was both exciting and challenging, and I learned a lot along the way:
-
 1. **Frontend Gracefulness:** As I crafted the frontend, I encountered various errors, but I embraced each challenge as an opportunity to learn. With useState and other hooks, along with Bootstrap for styling, I built an intuitive and responsive user interface.
 
 2. **Backend Confidence:** Setting up the Express and MongoDB server initially seemed daunting, but I persisted. Working on controllers for API calls and defining routes took time, but I gained confidence as I overcame each obstacle.
