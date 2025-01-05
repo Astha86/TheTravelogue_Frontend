@@ -1,6 +1,6 @@
 <img src='https://github.com/Astha86/TheTravelogue_Frontend/blob/main/src/assets/images/logo.jpg' />
 
-# The Travelogue 🌍
+# The Travelogue🌍 - A website for traveller
 
 The Travelogue is a comprehensive full-stack travel website using MERN Stack which is designed to simplify the travel planning process for users. 
 
