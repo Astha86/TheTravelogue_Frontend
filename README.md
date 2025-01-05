@@ -14,7 +14,6 @@ The CodeBuddy ed-tech platform follows a client-server architecture with the fol
 
 ![System Architecture Diagram](https://github.com/Astha86/CodeBuddy-An-EdTech-Platform/blob/main/src/assets/Images/architecture.png)
 
----
 
 ## Backend Repository
 
